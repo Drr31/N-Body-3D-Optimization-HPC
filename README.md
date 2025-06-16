@@ -1,6 +1,6 @@
 # 🧠 N-Body 3D Optimisation Project
 
-This repository presents an optimized implementation of the **N-Body problem in 3D**, written in **C**, and enhanced with **AVX2**, **OpenMP**, and **MAQAO** profiling tools. The project was developed as part of the **High Performance Computing (HPC)** module during my final year at **ISTY (IATIC4 – Université Paris-Saclay)**.
+This repository presents an optimized implementation of the **N-Body problem in 3D**, written in **C**, and enhanced with **AVX2**, **OpenMP**, and **MAQAO** profiling tools. The project was developed as part of the **High Performance Computing (HPC)** module during my year at **ISTY (IATIC4 – Université Paris-Saclay)**.
 
 ---
 
