@@ -34,12 +34,12 @@ This repository presents an optimized implementation of the **N-Body problem in 
 ---
 
 ## 📂 Repo Structure (Partial)
-
+```
 ├─ main.c 
-     Makefile # For compiling with AVX2 and OpenMP flags
-     results/ # Contains performance snapshots & MAQAO outputs
-     report-summary.txt # Overview of applied optimizations
-
+├─ Makefile # For compiling with AVX2 and OpenMP flags
+├─ results/ # Contains performance snapshots & MAQAO outputs
+├─ report-summary.txt # Overview of applied optimizations
+```
 ---
 
 ## ✅ Dependencies
